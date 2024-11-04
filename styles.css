@@ -60,7 +60,7 @@ h2 {
 
 .content {
   font-family: 'Playfair Display', serif;
-  padding: 100px 0 100px 0;
+  padding: 60px 0 60px 0;
   text-align: center;
   transition: opacity 0.8s;
   opacity: 0;
@@ -80,9 +80,9 @@ h2 {
 .capabilities {
   font-family: 'Playfair Display', serif;
   font-size: 20px;
-  margin-top: 100px;
+  margin-top: 60px;
   text-align: center;
-  max-width: 80%;
+  /* max-width: 80%; */
 }
 
 .button {
